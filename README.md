@@ -174,6 +174,3 @@ I’m especially interested in combining **AI, analytics, and game development**
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-![](https://github-contributor-stats.vercel.app/api?username=moaazafzal&limit=5&theme=dark&combine_all_yearly_contributions=true)
