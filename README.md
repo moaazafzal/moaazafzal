@@ -1,8 +1,9 @@
 # 👋 Hi, I'm Moaaz Afzal
 
 ### AI, Machine Learning & Data Science Enthusiast  
-### Senior Unity Game Developer | C# Developer | Founder at Aqua Games  
 ### MS Student at ULB Brussels — Machine Learning, AI & Data Science
+### Senior Unity Game Developer | C# Developer | Founder at Aqua Games  
+
 
 ---
 
