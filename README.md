@@ -2,7 +2,7 @@
 
 ### AI, Machine Learning & Data Science Enthusiast  
 ### MS Student at ULB Brussels — Machine Learning, AI & Data Science
-### Senior Unity Game Developer | C# Developer | Founder at Aqua Games  
+### Data Enigneer/ Senior Unity Game Developer | Python Developer| C# Developer |
 
 
 ---
